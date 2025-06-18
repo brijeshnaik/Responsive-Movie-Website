@@ -34,4 +34,4 @@ moviesite/
 │── /videos             # Optional trailer/video content (if any)
 └── README.md               # Project documentation
 ```
-Link:
+Link:https://brijeshnaik.github.io/Responsive-Movie-Website/
